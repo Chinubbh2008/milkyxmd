@@ -4,7 +4,7 @@
   "description": "ZORO MD Lite - WhatsApp bot with media download, group management, AI and fun features",
   "main": "index.js",
   "scripts": {
-    "start": "node start.js",
+    "start": "node index.js",
     "dev": "nodemon index.js",
     "lint": "eslint . --ext .js",
     "format": "prettier --write ."
