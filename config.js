@@ -2,7 +2,7 @@ module.exports = {
 
     S7: '@Zoroxbug', // Owner, Name
 
-    adminId: '8026499912', // Owner Chat ID ( control /address, /delresell )
+    adminId: '8026499912', // Owner Chat ID ( Control /address, /delresell )
 
     youtube: 'https://youtube.com/@its_sayan-j3p?si=11k8hFvF1FCsWBz1', // YouTube Link
 
