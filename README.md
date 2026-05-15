@@ -7,20 +7,24 @@
 ### ⚡ Advanced WhatsApp Multi Device Bot powered by Baileys
 
 <p align="center">
-  <a href="https://github.com/darksayan/milkyxmd"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="https://www.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://github.com/darksayan/milkyxmd">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="#features">
+    <img src="https://img.shields.io/badge/Features-06B6D4?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  </a>
+  
+  <a href="#deployment-methods">
+    <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
-<p align="center">
-  <a href="#deployment-methods"><img src="https://img.shields.io/badge/Deploy_Now-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="#session-id"><img src="https://img.shields.io/badge/Get_Session-5B21B6?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
-  <a href="#features"><img src="https://img.shields.io/badge/View_Features-06B6D4?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
-</p>
+<br>
 
 <p align="center">
   <a href="https://www.sayanxmilkyxmd.site/">
-    <img src="https://img.shields.io/badge/Get_Session_ID-5B21B6?style=for-the-badge&logo=hackthebox&logoColor=white">
+    <img src="https://img.shields.io/badge/GET_SESSION_ID-5B21B6?style=for-the-badge&logo=hackthebox&logoColor=white">
   </a>
 </p>
 
