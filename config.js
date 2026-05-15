@@ -1,6 +1,6 @@
 module.exports = {
 
-    S7: '@Zoroxbug', // Owner, Name
+    S7: '@Zoroxbug', // Owner, Name 
 
     adminId: '8026499912', // Owner Chat ID ( Control /address, /delresell )
 
